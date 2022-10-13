@@ -1,0 +1,17 @@
+/* ===== ANIMATE.CSS IMPORT CDN ===== */
+@import url(https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css);
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+.mini-header a {
+  font-size: 14px;
+}
+.mini-header .shadow-btn {
+  padding: 8px 15px!important;
+}
+.shadow-btn {
+  border-radius: 10px;
+  height: auto!important;
+  background-color: #fff!important;
+}
