@@ -10,6 +10,10 @@ body {
 .mini-header a {
   font-size: 14px;
 }
+.btn {
+  background-color: #5353db;
+  color: #ffffff;
+}
 .navbar {
   padding-bottom: 60px;
 }
