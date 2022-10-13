@@ -18,7 +18,7 @@ body {
   padding-bottom: 60px;
 }
 #top_contnt {
-  padding-bottom: 60px;
+  padding-bottom: 40px;
 }
 .sub-heading {
   font-size: 30px;
@@ -32,6 +32,10 @@ body {
 p {
   font-size: 22px;
 }
-/* .top-icon {
-  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
-} */
+#services_icon {
+  padding-bottom: 60px;
+}
+.top-icon {
+  border-radius: 20px;
+  box-shadow: rgb(0 0 0 / 10%) 0px 6px 8px
+}
