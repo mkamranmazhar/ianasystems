@@ -4,14 +4,30 @@
 body {
   font-family: 'Montserrat', sans-serif;
 }
+.mini-header {
+  box-shadow: 0 2px 6px -3px rgb(0 0 0 / 20%);
+}
 .mini-header a {
   font-size: 14px;
 }
-.mini-header .shadow-btn {
-  padding: 8px 15px!important;
+.navbar {
+  padding-bottom: 60px;
 }
-.shadow-btn {
-  border-radius: 10px;
-  height: auto!important;
-  background-color: #fff!important;
+#top_contnt {
+  padding-bottom: 60px;
 }
+.sub-heading {
+  font-size: 30px;
+  font-weight: 600;
+  color: #5353db;
+}
+.main-heading {
+  font-size: 60px;
+  font-weight: 700;
+}
+p {
+  font-size: 22px;
+}
+/* .top-icon {
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+} */
