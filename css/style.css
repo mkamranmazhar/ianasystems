@@ -10,15 +10,33 @@ body {
 .mini-header a {
   font-size: 14px;
 }
-.btn {
-  background-color: #5353db;
-  color: #ffffff;
-}
 .navbar {
   padding-bottom: 60px;
 }
+.navbar-light .navbar-nav .nav-link {
+  color: #000000;
+  font-weight: 600;
+}
+.theme-btn {
+  background-image: linear-gradient(to right,#3c3ca5,#4d4dd2);
+  font-weight: 600;
+  color: #ffffff;
+  border-radius: 5px;
+}
+.login-btn {
+  background-image: linear-gradient(to right,#227ee1,#1d64b0);
+  font-weight: 600;
+  color: #ffffff;
+  border-radius: 5px;
+}
+.login-btn:hover {
+  color: #ffffff;
+}
+.theme-btn:hover {
+  color: #ffffff;
+}
 #top_contnt {
-  padding-bottom: 40px;
+  padding-bottom: 60px;
 }
 .sub-heading {
   font-size: 30px;
