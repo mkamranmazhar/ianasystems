@@ -101,3 +101,30 @@ body {
   padding: 90px 90px;
   background-color: #f8f8f8;
 }
+.figma-to-html {
+  padding: 90px 90px;
+}
+.responsive {
+  padding: 90px 90px;
+}
+.it-services {
+  background: url(/img/it-services.png);
+  padding: 90px 90px;
+}
+.it-heading {
+  font-size: 32px;
+  font-weight: bold;
+  color: #ffffff;
+  line-height: 1.5;
+}
+.btn-light {
+  color: #4658da;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px;
+}
+.btn-outline-light {
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px;
+}
