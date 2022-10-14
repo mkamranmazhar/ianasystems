@@ -11,7 +11,7 @@ body {
   font-size: 14px;
 }
 .navbar {
-  padding-bottom: 60px;
+  padding-bottom: 40px;
 }
 .navbar-light .navbar-nav .nav-link {
   color: #000000;
@@ -58,7 +58,7 @@ body {
 .theme-btn:active {
   box-shadow: none;
 }
-#top_contnt {
+#slider {
   padding-bottom: 60px;
 }
 .sub-heading {
