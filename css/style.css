@@ -92,13 +92,13 @@ body {
 }
 .top-icon {
   border-radius: 20px;
-  box-shadow: rgb(0 0 0 / 10%) 0px 6px 8px
+  box-shadow: rgb(0 0 0 / 10%) 0px 6px 10px
 }
 .core-development {
   margin-bottom: 100px;
 }
 .psd-to-html {
-  padding: 90px 90px;
+  padding: 80px 80px;
   background-color: #f8f8f8;
 }
 .figma-to-html {
