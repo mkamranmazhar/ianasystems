@@ -1,2 +1,2 @@
 # ianasystems
-IANASYSTEMS &amp; TECHNOLOGIES - Web Development Company
+ianaSystems &amp; Technologies - Custom Web Development Company
